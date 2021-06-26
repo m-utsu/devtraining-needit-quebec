@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>m-utsunomiya@netone.co.jp</sys_created_by>
+        <sys_created_on>2021-06-24 12:21:54</sys_created_on>
+        <sys_id>c1260f372f303010aeb956f62799b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit.snc_internal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="">16fae66f2ff07010aeb956f62799b687</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c1260f372f303010aeb956f62799b6aa</sys_update_name>
+        <sys_updated_by>m-utsunomiya@netone.co.jp</sys_updated_by>
+        <sys_updated_on>2021-06-24 12:21:54</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>58168b372f303010aeb956f62799b621</transaction_id>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>809e5596db13d3c052e3f70fbf9619f1</instance_id>
+        <instance_name>dev65317</instance_name>
+        <name>sys_security_acl_role_c1260f372f303010aeb956f62799b6aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>m-utsunomiya@netone.co.jp</sys_created_by><sys_created_on>2021-06-24 12:21:54</sys_created_on><sys_id>c1260f372f303010aeb956f62799b6aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit.snc_internal</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_security_acl display_value="">16fae66f2ff07010aeb956f62799b687</sys_security_acl><sys_update_name>sys_security_acl_role_c1260f372f303010aeb956f62799b6aa</sys_update_name><sys_updated_by>m-utsunomiya@netone.co.jp</sys_updated_by><sys_updated_on>2021-06-24 12:21:54</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role><transaction_id>58168b372f303010aeb956f62799b621</transaction_id></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-654597974</payload_hash>
+        <record_name>x_58872_needit_needit.snc_internal</record_name>
+        <reverted_from/>
+        <source>fda5b73f2f0be010aeb956f62799b6f2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-03-29 15:59:37</sys_created_on>
+        <sys_id>613f91e42fc13010aeb956f62799b6ab</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1787eb642280000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Access Roles</type>
+        <update_guid>213f91e472c130106207baa5207eb0ab</update_guid>
+        <update_guid_history>213f91e472c130106207baa5207eb0ab:-654597974</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit_needit.snc_internal">e53fd1e42fc13010aeb956f62799b65b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>m-utsunomiya@netone.co.jp</sys_created_by>
+        <sys_created_on>2021-06-26 12:47:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>5fe0e3fce908494cbbe1a7a7999a1310</sys_id>
+        <sys_metadata>c1260f372f303010aeb956f62799b6aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit.snc_internal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c1260f372f303010aeb956f62799b6aa</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c1260f372f303010aeb956f62799b6aa">613f91e42fc13010aeb956f62799b6ab</sys_update_version>
+        <sys_updated_by>m-utsunomiya@netone.co.jp</sys_updated_by>
+        <sys_updated_on>2021-06-26 12:47:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
